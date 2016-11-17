@@ -1,0 +1,20 @@
+{
+  "name": "@dali/refreshlistview",
+  "version": "1.0.2",
+  "description": "refreshlistview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dali"
+  ],
+  "author": {
+    "name": "dali6"
+  },
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "@dali/refreshlistview@1.0.0",
+  "_shasum": "17958f4f5b0345828961e1129a520d6fa9656a94",
+  "_from": "@dali/refreshlistview@>=1.0.0 <2.0.0"
+}
